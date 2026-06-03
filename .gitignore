@@ -1,0 +1,10 @@
+# IDE
+.idea/
+*.iml
+
+# Build
+target/
+
+# OS
+Thumbs.db
+.DS_Store
